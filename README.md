@@ -1,0 +1,1 @@
+This project is a Sorting Algorithm Visualizer built using HTML, CSS, and JavaScript. It visually demonstrates how the Bubble Sort algorithm works by representing array elements as bars and animating comparisons and swaps step by step.
